@@ -1,2 +1,14 @@
 # worldcup-wwwfans-resource
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
